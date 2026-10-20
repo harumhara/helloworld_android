@@ -1,4 +1,4 @@
-# helloandroid_android  
+# helloworld_android  
 
 ## Android Studioという開発環境を使って『Hello Android!』アプリを作ってみる  
 
